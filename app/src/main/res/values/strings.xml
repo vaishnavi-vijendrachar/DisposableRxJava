@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Disposable RxJava</string>
+    <string name="doSomeWork">Do Some Work</string>
+</resources>
